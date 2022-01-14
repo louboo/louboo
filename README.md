@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louboo
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript and API integration. 
+- 🌱 I’m currently learning React/Javascript. 
 - 💞️ I’m looking to collaborate on any fun and interesting projects! I'm really keen to learn new things 🐙
 - 📫 How to reach me ... instagram: @loucodes
                          linkedin: www.linkedin.com/in/loujones085
